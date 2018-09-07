@@ -1,0 +1,37 @@
+
+# Ignore following directories
+target/*
+target/**/*
+*/target/*
+*/target/**/*
+*/*/target/*
+*/*/target/**/*
+.idea/*
+.idea/**/*
+*/.idea/*
+*/.idea/**/*
+bin/*
+bin/**/*
+build/*
+build/**/*
+txtfiles/*
+txtfiles/**/*
+out/*
+out/**/*
+.gradle/*
+.gradle/*/**
+bin/
+out/
+
+# Ignore following files
+*.iml
+*.iws
+*.ipr
+*.class
+*.orig
+*.swp
+.project
+.DS_Store
+.classpath
+redisConfig.tar
+*.versionsBackup
